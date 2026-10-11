@@ -1,0 +1,6 @@
+{
+  "name": "NovelCraft",
+  "description": "Expert Novel Planning and Writing Assistant for world-building, character arcs, plot structuring, chapter outlines, and interactive AI brainstorming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
